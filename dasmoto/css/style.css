@@ -1,0 +1,59 @@
+/* Page Banner */
+h1#banner {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki;
+  text-align: center;
+}
+
+header {
+  background-image: url("../resources/images/pattern.jpeg");
+}
+
+/* Body titles */
+h2#brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h2#frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+h2#paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight bold;
+  color: white;
+  background-color: skyblue;
+}
+
+/* Body writing */
+h3,
+p {
+  font-family: helvetica;
+}
+
+/* Price Highlights */
+#brushprice {
+  font-weight: bold;
+  color: blue;
+}
+
+#frameprice {
+  font-weight: bold;
+  color: blue;
+}
+
+#paintprice {
+  font-weight: bold;
+  color: blue;
+}
